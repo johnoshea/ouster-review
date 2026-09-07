@@ -1,6 +1,7 @@
 # ouster-review
 
-> [!IMPORTANT] This repo is deprecated, as of 2026-09-07
+> [!IMPORTANT]
+> This repo is deprecated, as of 2026-09-07
 >
 > The skill has been migrated to the <https://github.com/johnoshea/johns-way> plugin
 
