@@ -1,5 +1,9 @@
 # ouster-review
 
+> **IMPORTANT** This repo is deprecated, as of 2026-09-07
+>
+> The skill has been migrated to the <https://github.com/johnoshea/johns-way> plugin
+
 A Claude Code skill that runs a deep, opinionated code review in the style of
 John Ousterhout's *[A Philosophy of Software Design][aposd]* (APoSD). It has a
 single obsession: **reducing complexity** — how hard a system is to understand
